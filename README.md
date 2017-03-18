@@ -11,3 +11,8 @@ The focus on this project was develop my first application on ARM.
 https://www.youtube.com/watch?v=bkIJirzV_KA
 
 https://www.youtube.com/watch?v=jdy1aMQNs3g
+
+
+Kind Regards, Fbponz.
+
+**Contact:** e-Mail: fbponz@gmail.com
